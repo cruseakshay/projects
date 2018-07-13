@@ -10,4 +10,4 @@ Courses Completed by Akshaykumar Salunke.
 
 ---
 
-![Python Developer](https://github.com/cruseakshay/projects/blob/master/certImg/python%20develpoer%20datacamp.png)
+![Python Developer](certImg/python_develpoer.png)
