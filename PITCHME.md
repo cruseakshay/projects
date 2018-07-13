@@ -10,4 +10,4 @@ Courses Completed by Akshaykumar Salunke.
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+![Python Developer](https://github.com/cruseakshay/projects/blob/master/certImg/python%20develpoer%20datacamp.png)
