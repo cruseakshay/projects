@@ -1,14 +1,12 @@
-# Curriculum Vitae 
+# Gallary of course certificates.
 
-Curriculum Vitae for Akshaykumar Salunke.
+Courses Completed by Akshaykumar Salunke.
 
 ---
 
-### Flux Design
+### Certificate Listing
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Python Developer
 
 ---
 
