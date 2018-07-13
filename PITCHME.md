@@ -11,3 +11,11 @@ Courses Completed by Akshaykumar Salunke.
 ---
 
 ![Python Developer](certImg/python_develpoer.png)
+
+---
+
+![Data Analyst Python](certImg/data_analyst_python.png)
+
+---
+
+![Data Scientist Python](certImg/datascientist_python.png)
