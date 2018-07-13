@@ -1,6 +1,6 @@
-# Flux 
+# Curriculum Vitae 
 
-An application architecture for React
+Curriculum Vitae for Akshaykumar Salunke.
 
 ---
 
