@@ -23,3 +23,7 @@ Courses Completed by Akshaykumar Salunke.
 ---
 
 ![R developer](certImg/rdeveloper.png)
+
+---
+
+![Microsoft Data Scientist](certImg/micr_data_scientist.png)
