@@ -19,3 +19,7 @@ Courses Completed by Akshaykumar Salunke.
 ---
 
 ![Data Scientist Python](certImg/datascientist_python.png)
+
+---
+
+![R developer](certImg/rdeveloper.png)
