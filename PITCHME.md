@@ -7,6 +7,7 @@ Courses Completed by Akshaykumar Salunke.
 ### Certificate Listing
 
 - Python Developer
+- Data Anayst with python
 
 ---
 
