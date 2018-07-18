@@ -8,6 +8,7 @@ Courses Completed by Akshaykumar Salunke.
 
 - Python Developer
 - Data Anayst with python
+- Data Scientist with python
 
 ---
 
