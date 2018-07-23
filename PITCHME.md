@@ -33,3 +33,5 @@ Courses Completed by Akshaykumar Salunke.
 ---
 
 ![Microsoft Professional Big Data Orientation](certImg/1_bd_orientation.PNG)
+
+---
