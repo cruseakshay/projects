@@ -39,3 +39,7 @@ Courses Completed by Akshaykumar Salunke.
 ![Data Analyst With R](certImg/dataAnalystWithR.PNG)
 
 ---
+
+![Data Scientist With R](certImg/DataScientistWithR.PNG)
+
+---
