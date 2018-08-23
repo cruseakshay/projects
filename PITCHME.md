@@ -32,14 +32,14 @@ Courses Completed by Akshaykumar Salunke.
 
 ---
 
-![Microsoft Professional Big Data Orientation](certImg/1_bd_orientation.PNG)
-
----
-
 ![Data Analyst With R](certImg/dataAnalystWithR.PNG)
 
 ---
 
 ![Data Scientist With R](certImg/DataScientistWithR.PNG)
+
+---
+
+![Microsoft Professional Big Data Orientation](certImg/1_bd_orientation.PNG)
 
 ---
