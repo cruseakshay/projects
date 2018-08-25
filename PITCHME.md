@@ -65,3 +65,15 @@ Courses Completed by Akshaykumar Salunke.
 ![Querying with Transact SQL](certImg/4_QueryingwithTransact_SQL.PNG)
 
 ---
+
+![Delivering DW Cloud](certImg/5_bd_Delivering_DW_Cloud.PNG)
+
+---
+
+![Processing BigData with Hadoop in AzureHDInsight](certImg/6_ProcessingBigDatawithHadoopinAzureHDInsight.PNG)
+
+---
+
+![RealTime Analytics with Hadoop in Azure HDInsight](certImg/7_RealTimeAnalyticswithHadoopinAzureHDInsight.PNG)
+
+---
