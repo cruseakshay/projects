@@ -4,7 +4,7 @@ Courses Completed by Akshaykumar Salunke.
 
 ---
 
-### Certificate Listing
+### Certificate in Data Science
 
 - Python Developer
 - Data Anayst with python
@@ -37,6 +37,10 @@ Courses Completed by Akshaykumar Salunke.
 ---
 
 ![Data Scientist With R](certImg/DataScientistWithR.PNG)
+
+---
+
+## Certificates in Big Data Technology
 
 ---
 
