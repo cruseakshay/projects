@@ -57,3 +57,11 @@ Courses Completed by Akshaykumar Salunke.
 ![Analyzing and Visualizing Data with PowerBI](certImg/2_AnalyzingandVisualizingDatawithPowerBI.PNG)
 
 ---
+
+![Intro NoSQL Data Solutions](certImg/3_bd_Intro_NoSQL_Data_Solutions.PNG)
+
+---
+
+![Querying with Transact SQL](certImg/4_QueryingwithTransact_SQL.PNG)
+
+---
