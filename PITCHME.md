@@ -77,3 +77,15 @@ Courses Completed by Akshaykumar Salunke.
 ![RealTime Analytics with Hadoop in Azure HDInsight](certImg/7_RealTimeAnalyticswithHadoopinAzureHDInsight.PNG)
 
 ---
+
+![Orchestrating BigData with Azure DataFactory](certImg/8_OrchestratingBigDatawithAzureDataFactory.PNG)
+
+---
+
+![BigData Solutions with Azure Machine Learning](certImg/9_BigDataSolutionswithAzureMachineLearning.PNG)
+
+---
+
+![Capstone Project BigData](certImg/10_CapstoneBigData.PNG)
+
+---
