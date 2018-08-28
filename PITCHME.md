@@ -89,3 +89,17 @@ Courses Completed by Akshaykumar Salunke.
 ![Capstone Project BigData](certImg/10_CapstoneBigData.PNG)
 
 ---
+
+Certificates in MongoDB
+
+---
+
+![MongoDB for Python Developers](certImg/mogo_for_developers.PNG)
+
+---
+
+![MongoDB for node.js Developers](certImg/mogo_for_nodejs_developers.PNG)
+
+---
+
+![MongoDB for JAVA Developers](certImg/mogo_for_java_developers.PNG)
