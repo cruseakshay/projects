@@ -22,6 +22,10 @@ Courses Completed by Akshaykumar Salunke.
 
 ---
 
+![Microsoft Big Data](certImg/micr_big_data.PNG)
+
+---
+
 ![Python Developer](certImg/python_develpoer.png)
 
 ---
