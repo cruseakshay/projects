@@ -1,4 +1,4 @@
-# Gallary of certificates.
+# Certificates Gallary.
 
 Courses Completed by Akshaykumar Salunke.
 
