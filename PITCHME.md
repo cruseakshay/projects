@@ -107,3 +107,25 @@ Certificates in MongoDB
 ---
 
 ![MongoDB for JAVA Developers](certImg/mogo_for_java_developers.PNG)
+
+--
+
+Coursework in Python For Data Science
+
+--
+
+![Intro to Python for Data Science]()
+
+--
+
+![Intermediate Python for Data Science]()
+
+--
+
+![]()
+
+--
+
+![]()
+
+--
