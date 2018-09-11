@@ -129,3 +129,7 @@ Coursework in Python For Data Science
 ![Python Data Science Toolbox (Part 2)](certImg/DC_3_dataScienceToolBox_2.PNG)
 
 --
+
+![Data Types for Data Science](certImg/DC_4_dataTypesPython.PNG)
+
+--
