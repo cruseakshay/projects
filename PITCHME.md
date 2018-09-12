@@ -133,3 +133,7 @@ Coursework in Python For Data Science
 ![Data Types for Data Science](certImg/DC_4_dataTypesPython.PNG)
 
 ---
+
+![Importing Data in Python (Part 1)](certImg/.PNG)
+
+---
