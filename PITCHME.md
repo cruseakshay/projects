@@ -134,6 +134,6 @@ Coursework in Python For Data Science
 
 ---
 
-![Importing Data in Python (Part 1)](certImg/.PNG)
+![Importing Data in Python (Part 1)](certImg/DC_5_importingDataPython.PNG)
 
 ---
