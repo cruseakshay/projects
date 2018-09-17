@@ -33,6 +33,10 @@ Courses Completed by Akshaykumar Salunke.
 
 ---
 
+![Oracle Certified Associate](certImg/OCA.PNG)
+
+---
+
 ![Python Developer](certImg/python_develpoer.png)
 
 ---
