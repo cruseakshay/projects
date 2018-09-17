@@ -4,7 +4,7 @@ Courses Completed by Akshaykumar Salunke.
 
 ---
 
-### Certificate in Data Science
+### Certificates in Data Science
 
 - Python
   1. Python Developer
@@ -18,7 +18,7 @@ Courses Completed by Akshaykumar Salunke.
 
 ---
 
-### Certificate in JAVA
+### Certificates in JAVA
 
 -Java
   1. Oracle Certified Associate, Java SE 8 Programmer
