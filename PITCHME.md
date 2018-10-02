@@ -105,6 +105,10 @@ Courses Completed by Akshaykumar Salunke.
 
 ---
 
+![Big Data Analysis with Apache Spark](certImg/berkeley_apche_spark.PNG)
+
+---
+
 Certificates in MongoDB
 
 ---
