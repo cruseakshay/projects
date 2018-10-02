@@ -156,3 +156,7 @@ Coursework in Python For Data Science
 ![Cleaning Data in Python](certImg/DC_6_cleanDataPython.PNG)
 
 ---
+
+![Intro CS and programming Using Python](certImg/MITx_6.00.1.PNG)
+
+---
