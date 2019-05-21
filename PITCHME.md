@@ -22,7 +22,7 @@ Courses Completed by Akshaykumar Salunke.
 
 - Java
   1. Oracle Certified Associate, Java SE 8 Programmer
-
+  2. Oracle Certified Professional, Java SE 8 Programmer
 ---
 
 ![Microsoft Data Scientist](certImg/micr_data_scientist.png)
